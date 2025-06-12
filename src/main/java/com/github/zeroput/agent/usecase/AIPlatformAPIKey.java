@@ -1,4 +1,4 @@
-package com.github.zeroput.zeroputaiagent.usecase;
+package com.github.zeroput.agent.usecase;
 
 /**
  * Store the const key

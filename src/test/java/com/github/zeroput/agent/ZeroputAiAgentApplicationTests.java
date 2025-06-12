@@ -1,4 +1,4 @@
-package com.github.zeroput.zeroputaiagent;
+package com.github.zeroput.agent;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

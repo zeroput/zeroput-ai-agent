@@ -1,4 +1,4 @@
-package com.github.zeroput.zeroputaiagent.web;
+package com.github.zeroput.agent.web;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
