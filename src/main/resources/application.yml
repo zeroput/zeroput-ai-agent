@@ -15,7 +15,7 @@ springdoc:
   group-configs:
     - group: 'default'
       paths-to-match: '/**'
-      packages-to-scan: com.github.zeroput.zeroputaiagent.web
+      packages-to-scan: com.github.zeroput.agent.web
 # knife4j
 knife4j:
   enable: true

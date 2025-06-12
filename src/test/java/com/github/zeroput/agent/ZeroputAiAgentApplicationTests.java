@@ -10,4 +10,10 @@ class ZeroputAiAgentApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void testAPI() {
+        // call the api test
+        
+    }
+
 }
